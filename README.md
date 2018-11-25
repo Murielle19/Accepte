@@ -1,1 +1,1 @@
-# Accepte
+# typescript
